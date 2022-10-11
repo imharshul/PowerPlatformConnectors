@@ -1,5 +1,7 @@
 # Microsoft Power Platform Connectors
 
+Harshul Edited
+
 Welcome to the Microsoft Power Platform Connectors open source repository. This repository contains custom connectors, certified connectors, and related tools to facilitate connector development for Azure Logic Apps, Microsoft Power Apps, and Microsoft Power Automate.
 
 ## Custom Connectors
